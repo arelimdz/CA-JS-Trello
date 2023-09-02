@@ -32,5 +32,12 @@ p{
     margin: 0;
     display: flex;
     height: 10dvw;
+}
 
+/* Styling the column/card row so it has space to show its content */
+.displayRow {
+    margin: 0;
+    display: flex;
+    height: 70dvw;
+    padding: 1%;
 }
